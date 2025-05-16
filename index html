@@ -41,22 +41,18 @@
 
     <section class="sessao">
         <div class="caixa">
-            <div class="conteudo-sessao">
+            <div class="Ligação campoe cidade">
                 <div class="texto-sessao">
                     <h2>Conteudo-sessao 1</h2>
                     <p class="paragrafos-primeira-section">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                         Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
-                           Nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit 
-                           in voluptate velit esse cillum dolore. Eu fugiat nulla pariatur.
+                       Pró conexão campo e cidade" refere-se à necessidade de reconhecer e fortalecer a interdependência entre o campo e a cidade, destacando a importância de ambas para o desenvolvimento da sociedade. O campo fornece alimentos e matérias-primas, enquanto a cidade oferece tecnologia, mercado consumidor e serviços que apoiam a produção agrícola. 
+                        .
                     </p>
                     <p class="paragrafos-primeira-section">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                         Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
-                           Nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit 
-                           in voluptate velit esse cillum dolore. Eu fugiat nulla pariatur.</p>
+                        L
+                       Interdependência:
+O campo e a cidade não são entidades separadas, mas sim partes de um sistema interligado. O campo depende da cidade para o fornecimento de insumos, tecnologia e acesso a mercados, enquanto a cidade depende do campo para o abastecimento de alimentos e matérias-primas. 
+ .</p>
                 </div>
                 <div class="imagem-sessao">
                     <img src="img/01-img-teste.jpg" alt="Imagem da Seção">
